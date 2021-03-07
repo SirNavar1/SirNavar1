@@ -9,11 +9,18 @@
   <a href="https://python.org"><img alt="python" src="https://img.shields.io/badge/-Python-00ff1e?style=flat-square&logo=python&logoColor=black" /></a>
 </p>
 
-## Framework et librairies utilisés
+## 🌍 Framework et librairies utilisés
 
 <p>
   <a href="https://electronjs.org"><img alt="electron" src="https://img.shields.io/badge/-Electron-7036cc?style=flat-square&logo=electron&logoColor=black" /></a>
   <a href="https://getbootstrap.com"><img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /></a>
+</p>
+
+## Langages en cours d'apprentissage
+
+<p>
+  <a href="https://www.php.net/"><img alt="electron" src="https://img.shields.io/badge/-Php-7036cc?style=flat-square&logo=php&logoColor=black" /></a>
+  <a href="https://isocpp.org/"><img alt="bootstrap" src="https://img.shields.io/badge/-C++-563D7C?style=flat-square&logo=cpp&logoColor=white" /></a>
 </p>
 
 ## ⚙️ Outils de programmation
