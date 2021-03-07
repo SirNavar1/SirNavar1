@@ -16,10 +16,11 @@
   <a href="https://code.visualstudio.com"><img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" /></a>
 </p>
 
-<p align="left"> 
+<!-- <p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Matheroli/count.svg" />
 </p>
+-->
 
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Matheroli&show_icons=true&hide_border=true&theme=tokyonight" />
 <img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheroli&show_icons=true&theme=tokyonight&layout=compact" />
