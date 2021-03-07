@@ -19,7 +19,7 @@
 ## Langages en cours d'apprentissage
 
 <p>
-  <a href="https://www.php.net/"><img alt="electron" src="https://img.shields.io/badge/-Php-7036cc?style=flat-square&logo=php&logoColor=black" /></a>
+  <a href="https://www.php.net/"><img alt="electron" src="https://img.shields.io/badge/-Php-777BB4?style=flat-square&logo=php&logoColor=black" /></a>
   <a href="https://isocpp.org/"><img alt="bootstrap" src="https://img.shields.io/badge/-C++-777BB4?style=flat-square&logo=cplusplus&logoColor=white" /></a>
 </p>
 
