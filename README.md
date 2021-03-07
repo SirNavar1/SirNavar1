@@ -18,18 +18,19 @@
   <a href="https://www.mysql.com"><img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
 </p>
 
-## Langages en cours d'apprentissage
+## 🌐 Langages en cours d'apprentissage
 
 <p>
   <a href="https://www.php.net/"><img alt="php" src="https://img.shields.io/badge/-Php-777BB4?style=flat-square&logo=php&logoColor=black" /></a>
   <a href="https://isocpp.org/"><img alt="c++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
-  <a href="https://isocpp.org/"><img alt="c" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" /></a>
+  <a href="https://c.developpez.com/"><img alt="c" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" /></a>
 </p>
 
 ## ⚙️ Outils de programmation
 <p>
   <a href="https://github.com"><img alt="github" src="https://img.shields.io/badge/-GitHub-161616?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://code.visualstudio.com"><img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" /></a>
+  #C51A4A
 </p>
 
 <!-- <p align="left"> 
