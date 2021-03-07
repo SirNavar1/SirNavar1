@@ -19,8 +19,8 @@
 ## Langages en cours d'apprentissage
 
 <p>
-  <a href="https://www.php.net/"><img alt="electron" src="https://img.shields.io/badge/-Php-777BB4?style=flat-square&logo=php&logoColor=black" /></a>
-  <a href="https://isocpp.org/"><img alt="bootstrap" src="https://img.shields.io/badge/-C++-777BB4?style=flat-square&logo=cplusplus&logoColor=white" /></a>
+  <a href="https://www.php.net/"><img alt="php" src="https://img.shields.io/badge/-Php-777BB4?style=flat-square&logo=php&logoColor=black" /></a>
+  <a href="https://isocpp.org/"><img alt="c++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&logoColor=white" /></a>
 </p>
 
 ## ⚙️ Outils de programmation
