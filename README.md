@@ -13,6 +13,7 @@
 
 <p>
   <a href="https://electronjs.org"><img alt="electron" src="https://img.shields.io/badge/-Electron-7036cc?style=flat-square&logo=electron&logoColor=black" /></a>
+  <a href="https://getbootstrap.com"><img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /></a>
 </p>
 
 ## ⚙️ Outils de programmation
