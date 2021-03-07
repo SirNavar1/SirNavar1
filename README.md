@@ -9,7 +9,7 @@
   <a href="https://python.org"><img alt="python" src="https://img.shields.io/badge/-Python-00ff1e?style=flat-square&logo=python&logoColor=black" /></a>
 </p>
 
-## Framework et librairies utilisées
+## Framework et librairies utilisés
 
 <p>
   <a href="https://electronjs.org"><img alt="electron" src="https://img.shields.io/badge/-Electron-7036cc?style=flat-square&logo=electron&logoColor=black" /></a>
