@@ -7,6 +7,11 @@
   <a href="https://developer.mozilla.org/docs/Web/CSS"><img alt="css" src="https://img.shields.io/badge/-CSS-00A6FF?style=flat-square&logo=css3&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img alt="js" src="https://img.shields.io/badge/-JavaScript-FFEE00?style=flat-square&logo=javascript&logoColor=black" /></a>
   <a href="https://python.org"><img alt="python" src="https://img.shields.io/badge/-Python-00ff1e?style=flat-square&logo=python&logoColor=black" /></a>
+</p>
+
+## Framework et librairies utilisées
+
+<p>
   <a href="https://electronjs.org"><img alt="electron" src="https://img.shields.io/badge/-Electron-7036cc?style=flat-square&logo=electron&logoColor=black" /></a>
 </p>
 
