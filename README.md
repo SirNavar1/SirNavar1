@@ -11,16 +11,7 @@
   <a href="https://python.org"><img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black" /></a>
 </p>
 
-## 🌍 Framework et librairies utilisés
-
-<p>
-  <a href="https://electronjs.org"><img alt="electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=black" /></a>
-  <a href="https://getbootstrap.com"><img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /></a>
-  <a href="https://jquery.com"><img alt="jquery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" /></a>
-  <a href="https://vuejs.org"><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-35495e?p&flat&logo=vue.js&logoColor=%234FC08D"/></a>
-</p>
-
-## 🌐 Langages en cours d'apprentissage
+## 🌐 Langages en cours d'apprentissage :
 
 <p>
   <a href="https://www.php.net/"><img alt="php" src="https://img.shields.io/badge/-Php-777BB4?style=flat-square&logo=php&logoColor=black" /></a>
@@ -28,14 +19,22 @@
   <a href="https://c.developpez.com/"><img alt="c" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" /></a>
 </p>
 
-## Framework que je suis en train d'apprendre à utiliser 
+## ⚙️ Framework et librairies utilisés :
+
+<p>
+  <a href="https://electronjs.org"><img alt="electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=black" /></a>
+  <a href="https://getbootstrap.com"><img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /></a>
+  <a href="https://jquery.com"><img alt="jquery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" /></a>
+</p>
+
+## ⚙️ Framework que je suis en train d'apprendre à utiliser :
 
 <p>
   <a href="https://svelte.dev"><img alt="svelte" src="https://img.shields.io/badge/-Svelte-ff6b22?style=flat-square&logo=svelte&logoColor=white" /></a>
   <a href="https://vuejs.org"><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-35495e?p&flat&logo=vue.js&logoColor=%234FC08D"/></a>
 </p>
 
-## ⚙️ Outils de programmation
+## ⚙️ Outils de programmation :
 <p>
   <a href="https://github.com"><img alt="github" src="https://img.shields.io/badge/-GitHub-161616?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://code.visualstudio.com"><img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" /></a>
