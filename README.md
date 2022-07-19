@@ -1,5 +1,4 @@
-## Salut, je suis Mathéo !
-## Discord : Matheroli🌌#0001
+## Salut, je suis Mathéo 
 
 [![Matheroli](https://img.shields.io/github/followers/Matheroli?label=Matheroli&logo=github)](https://github.com/Matheroli)
 
