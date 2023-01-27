@@ -13,7 +13,7 @@
 
 ## 🌐 Langages en cours d'apprentissage :
 <p>
-  <a href="https://unrealengine.com"><img alt="unreal" src="https://img.shields.io/badge/-Unreal-#0E1128?style=flat-square&logo=unrealengine&logoColor=black"/></a>
+  <a href="https://unrealengine.com"><img alt="unreal" src="https://img.shields.io/badge/-Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=black"/></a>
 </p>
 
 
