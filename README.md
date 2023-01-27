@@ -12,12 +12,12 @@
 </p>
 
 ## 🌐 Langages en cours d'apprentissage :
-
 <p>
-  <a href="https://www.php.net/"><img alt="php" src="https://img.shields.io/badge/-Php-777BB4?style=flat-square&logo=php&logoColor=black" /></a>
+  <a href="https://unrealengine.com"><img alt="unreal" src="https://img.shields.io/badge/-Unreal-3776AB?style=flat-square&logo=unreal&logoColor=black" /></a>
 </p>
 
-## ⚙️ Framework et librairies utilisés :
+
+## ⚙️ Framework et librairies maîtrisés :
 
 <p>
   <a href="https://electronjs.org"><img alt="electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=black" /></a>
