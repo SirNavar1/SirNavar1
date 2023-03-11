@@ -27,7 +27,7 @@
 <p>
   <a href="https://github.com"><img alt="github" src="https://img.shields.io/badge/-GitHub-161616?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://code.visualstudio.com"><img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" /></a>
-
+</p>
 <!-- <p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Matheroli/count.svg" />
