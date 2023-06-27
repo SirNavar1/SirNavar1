@@ -2,7 +2,7 @@
 
 [![Matheroli](https://img.shields.io/github/followers/Matheroli?label=Matheroli&logo=github)](https://github.com/Matheroli)
 
-## 🌍 Langages de programmation :
+## 🌍 Langages de programmation (là où j'ai les bases) :
 
 <p>
   <a href="https://developer.mozilla.org/docs/Web/HTML"><img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
