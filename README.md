@@ -11,11 +11,15 @@
   <a href="https://python.org"><img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black" /></a>
 </p>
 
-## 🌐 Langages en cours d'apprentissage :
+## 🌐 Langages encore en cours d'apprentissage :
+<p>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img alt="js" src="https://img.shields.io/badge/-JavaScript-FFEE00?style=flat-square&logo=javascript&logoColor=black" /></a>
+</p>
+
+## 🛠️ Outils que j'aimerais apprendre à utiliser :
 <p>
   <a href="https://unrealengine.com"><img alt="unreal" src="https://img.shields.io/badge/-Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=black"/></a>
 </p>
-
 
 ## ⚙️ Framework et librairies maîtrisés :
 
