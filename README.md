@@ -15,7 +15,7 @@
 
 <p>
   <a href="https://electronjs.org"><img alt="electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=black" /></a>
-  <a href="https://nextjs.org"><img alt="nextjs" src="https://img.shields.io/badge/-Next.js-47848F?style=flat-square&logo=nextjs&logoColor=black" />
+  <a href="https://nextjs.org"><img alt="nextjs" src="https://img.shields.io/badge/-Next.js-47848F?style=flat-square&logo=next.js&logoColor=black" />
 </p>
 
 ## ⚙️ Outils de programmation :
