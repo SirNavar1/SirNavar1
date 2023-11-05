@@ -8,22 +8,14 @@
   <a href="https://developer.mozilla.org/docs/Web/HTML"><img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS"><img alt="css" src="https://img.shields.io/badge/-CSS-00A6FF?style=flat-square&logo=css3&logoColor=white" /></a>
   <a href="https://python.org"><img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black" /></a>
-</p>
-
-## 🌐 Langages encore en cours d'apprentissage :
-<p>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img alt="js" src="https://img.shields.io/badge/-JavaScript-FFEE00?style=flat-square&logo=javascript&logoColor=black" /></a>
 </p>
 
-## 🛠️ Outils que j'aimerais apprendre à utiliser :
-<p>
-  <a href="https://unrealengine.com"><img alt="unreal" src="https://img.shields.io/badge/-Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=black"/></a>
-</p>
-
-## ⚙️ Framework et librairies maîtrisés :
+## ⚙️ Framework et librairies utilisés :
 
 <p>
   <a href="https://electronjs.org"><img alt="electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=black" /></a>
+  <a href="https://nextjs.org"><img alt="nextjs" src="https://img.shields.io/badge/-Next.js-47848F?style=flat-square&logo=nextjs&logoColor=black" />
 </p>
 
 ## ⚙️ Outils de programmation :
